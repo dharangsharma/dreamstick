@@ -1,0 +1,150 @@
+{
+    "Header": {
+
+        "title": "We are a Landing Page",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+
+    },
+    "About": {
+        "paragraph": "What makes us different from a traditional creative agency? We hold a deep understanding of effective communication and deploy appropriate tools to create designs to impact and hold the attention.",
+        "Why": [
+            "Creativity Fused with Clarity of Thought",
+            "One Stop Solution",
+            "Value for Money",
+            "Quick and Efficient Service"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-paint-brush",
+            "name": "Design & Creative Communication",
+            "text":  "- Collateral design and development - Presentation design - Brochures - Document formatting - Customized Packaging - Website design - Application (App) UI design - Infographics"
+        },
+        {
+            "icon": "fa fa-video-camera",
+            "name": "Video Animations",
+            "text": "- Explainer Videos - 2DAnimations - 3D Animations - White board Animations - Character Animations - Motion graphics"
+        },
+        {
+            "icon": "fa fa-area-chart",
+            "name": "Digital Marketing",
+            "text": "- Social media management (SMM) - Social media analytics - Lead generation - Search Engine Optimization (SEO) - Conversation Management - Influencer Marketing - Content Distribution - Content writing and design compilation"
+        },
+        {
+            "icon": "fa fa-suitcase",
+            "name": "Business Writing",
+            "text": "- Professional content curation - Corporate presentations - Proposals/bids preparation and design - Pitch packs development - Product or service write-ups"
+        },
+        {
+            "icon": "fa fa-desktop",
+            "name": "Technology Services",
+            "text": "- Email Management (Promotional/Transactional) - AR/VR - Global SMS gateways (Promotional & Transactional) - WhatsApp Business Account (Transactional/AI Chatbot) - Dynamic QR Code Creation - Application Building & Management - Software Creation with Ideation at each step"
+        },
+        {
+            "icon": "fa fa-sitemap",
+            "name": "Brand Management",
+            "text": "- Brand consultancy - Branded collateral development - Office branding - Brand guidelines and trainings - Brand building and positioning - Event marketing - Event merchandise - Corporate Gifting - Photo shoots - Offline advertising"
+        }
+     
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Pankaj Saraf, Designation, Company Name"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Isha Chugh, Designation, Company Name"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Abhishek Ranjan, Designation, Company Name"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Project Manager, Big Four"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/Ruchi-Makkar.jpg",
+            "name": "Ruchi Makkar",
+            "job": "Director/Visualizer"
+        },
+        {
+            "img": "img/team/Sakshi-Nagpal.jpg",
+            "name": "Sakshi Nagpal",
+            "job": "SM Marketing Strategist"
+        }, {
+            "img": "img/team/Hemant.jpg",
+            "name": "Hemant Batra",
+            "job": "Social Media Manager"
+        },
+        {
+            "img": "img/team/Tanay-raj.jpg",
+            "name": "Tanayraj Chouhan",
+            "job": "Designer/Content Writer"
+        },
+        {
+            "img": "img/team/Nipun.jpg",
+            "name": "Nipun S.",
+            "job": "Video Animator"
+        },
+        {
+            "img": "img/team/Prateek.jpg",
+            "name": "Pratik Sharma",
+            "job": "Consultant Designer"
+        }, {
+            "img": "img/team/Nikhil.jpg",
+            "name": "Nikhil Kumar",
+            "job": "Marketing Strategist"
+        },
+        {
+            "img": "img/team/Muskan.jpg",
+            "name": "Muskan Goel",
+            "job": "Graphic Designer & Creative Thinker"
+        }
+    ],
+    "Contact": {
+        "address": "1740, Shop No. 5, Sher Singh Bazar, Kotla Mubarakpur, New Delhi - 110003",
+        "phone": "+91 952 6406 6667",
+        "email": "ddreamstick@gmail.com",
+        "facebook": "https://www.facebook.com/DDreamStick/",
+        "instagram": "https://www.instagram.com/ddreamstick/?hl=en",
+        "twitter": "https://twitter.com/DDreamStick"
+        
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
